@@ -1,4 +1,6 @@
-module github.com/klyve/go-nmea
+module github.com/Navisense/go-nmea
+
+go 1.15
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
